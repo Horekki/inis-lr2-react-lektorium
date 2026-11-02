@@ -1,0 +1,18 @@
+.wrap {
+  position: relative;
+  display: inline-flex;
+  padding: 6px;
+}
+
+.badge {
+  position: absolute;
+  top: -2px;
+  right: -4px;
+  min-width: 20px;
+  padding: 1px 5px;
+  border-radius: 10px;
+  background: var(--brand);
+  color: #fff;
+  font: 600 12px Inter, Arial, sans-serif;
+  text-align: center;
+}

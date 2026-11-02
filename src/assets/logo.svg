@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="70" viewBox="0 0 260 70" fill="none">
+  <rect x="4" y="11" width="48" height="48" rx="8" fill="#0F766E"/>
+  <path d="M19 45V25h6v14c0 3 2 4 5 4h2v-18h6v18h2" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="46" fill="#1C1917" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600">Лекториум</text>
+</svg>

@@ -1,0 +1,22 @@
+/* Токены из Styles ЛР1: «бумажная» тема */
+:root {
+  --bg: #f4f1ea;
+  --card: #ffffff;
+  --brand: #0f766e;
+  --brand-hover: #115e59;
+  --text: #1c1917;
+  --muted: #78716c;
+  --disabled: #d6d3d1;
+  --shadow: 0 2px 12px rgba(28, 25, 23, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Inter, Arial, sans-serif;
+}
